@@ -41,6 +41,6 @@ This is a simple and interactive movie recommendation website built using Python
 
 Made by Jatin Kumar
 
-GitHub: https://github.com/jatin12399/jatin17
+GitHub: https://github.com/jatin12399/
 
 Website Link - https://movie-recommender-vd6py3pmxqjhbrbzz8scvu.streamlit.app/
