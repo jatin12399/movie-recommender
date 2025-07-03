@@ -1,0 +1,17 @@
+# Streamlit is used to build the interactive web app
+streamlit
+
+# pandas is used for reading the imdb_dataset.csv file and handling data
+pandas
+
+# scikit-learn provides CountVectorizer and cosine_similarity for building recommendations
+scikit-learn
+
+# fuzzywuzzy helps with fuzzy text matching for movie name suggestions
+fuzzywuzzy
+
+# This speeds up fuzzywuzzy and avoids warning messages
+python-Levenshtein
+
+# requests is used to call the OMDb API to fetch movie posters and ratings
+requests
